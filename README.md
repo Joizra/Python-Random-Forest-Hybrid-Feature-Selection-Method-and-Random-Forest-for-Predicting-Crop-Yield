@@ -10,5 +10,5 @@ While a Local Model exhibits a better fit and lower errors compared to the Globa
 
 
 <p align="center">
-  <img src="https://github.com/Joizra/Python-Random-Forest-Hybrid-Feature-Selection-Method-and-Random-Forest-for-Predicting-Crop-Yield/blob/main/Workflow-global%20model.png" width="200" height="400">
+  <img src="https://github.com/Joizra/Python-Random-Forest-Hybrid-Feature-Selection-Method-and-Random-Forest-for-Predicting-Crop-Yield/blob/main/Workflow-global%20model.png" width="200" height="300">
 </p>

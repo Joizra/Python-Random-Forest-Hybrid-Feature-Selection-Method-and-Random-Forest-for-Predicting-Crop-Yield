@@ -9,5 +9,6 @@ The Random Forest model was selected for further experimentation because it surp
 While a Local Model exhibits a better fit and lower errors compared to the Global Model, there is still potential for further improvement.
 
 
-# Note
-Check file attached for further details.
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg" width="800" height="500">
+</p>
